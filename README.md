@@ -1,7 +1,7 @@
 <h1>Hey there, I'm <a  href="https://github.com/TeixeiraData/TeixeiraData/">Lucas Teixeira </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 [![linkedin badge](https://img.shields.io/badge/lucas-teixeira-6bb64830f?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-teixeira-6bb64830/)
-[![Email Badge](https://img.shields.io/badge/lucas_machida@outlook.com-30302f?style=flat&logo=Outlook&logoColor=red)](mailto:lucas_machida@outlook.com)
+[![Email Badge](https://img.shields.io/badge/lucas_machida@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:lucas_machida@outlook.com)
 <img src="https://komarev.com/ghpvc/?username=lucas-teixeira&style=plastic" />
 
 I have skills and knowledge for delivering advanced analytical projects which can be supported by my solid big data analytics experience.
