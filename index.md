@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Lucas
 
 You can use the [editor on GitHub](https://github.com/TeixeiraData/TeixeiraData/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
