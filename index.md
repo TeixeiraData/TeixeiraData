@@ -1,10 +1,10 @@
-## Welcome to GitHub Lucas
+# Welcome to GitHub Lucas
 
-Irei iniciar o aprendizado do livro "Python para Análise de Dados".
+Irei iniciar o aprendizado do livro "Python para Análise de Dados". <br>
 I will start learning the book "Python for Data Analysis".
 
-# Capitulo 1
-  Trás uma abertura à arquitetura do livro.
+## Capitulo 1
+  Trás uma abertura à arquitetura do livro. <br>
   It brings an opening to the architecture of the book.
   
 
