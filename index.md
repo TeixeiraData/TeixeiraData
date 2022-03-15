@@ -1,8 +1,12 @@
 ## Welcome to GitHub Lucas
 
-Irei iniciar o desenvolvimento do livro "Python para Análise de Dados".
+Irei iniciar o aprendizado do livro "Python para Análise de Dados".
+I will start learning the book "Python for Data Analysis".
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Capitulo 1
+  Trás uma abertura à arquitetura do livro.
+  It brings an opening to the architecture of the book.
+  
 
 ### Markdown
 
