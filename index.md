@@ -7,6 +7,12 @@ I will start learning the book "Python for Data Analysis".
   Trás uma abertura à arquitetura do livro. <br>
   It brings an opening to the architecture of the book.
   
+## Capitulo 2
+  Básico da linguagem Python. <br>
+  Python language basics. <br>
+    Python Interpreter
+      Apresenta dois interpretadores voltados a analise de dadods o Ipython e o Jupyter.
+    Observando o Jupyter é possivel ter melhor afinidade pois sua evolução apresenta melhor visibilidade de avanço.
 
 ### Markdown
 
