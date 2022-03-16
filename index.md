@@ -14,10 +14,10 @@ I will start learning the book "Python for Data Analysis".
       Apresenta dois interpretadores voltados a analise de dadods o Ipython e o Jupyter.<br>
     Observando o Jupyter é possivel ter melhor afinidade pois sua evolução apresenta melhor visibilidade de avanço.<br>
     Arquivos realizados no Jupyter conforme subtitulos<br>
-    *First_HelloWorld.ipynb<br>
-    *Second_PreenchimentoAutomatico.ipynb<br>
-    *Third_Introspecção.ipynb<br>
-    *Fourth_load.ipynb<br>
+    - First_HelloWorld.ipynb<br>
+    - Second_PreenchimentoAutomatico.ipynb<br>
+    - Third_Introspecção.ipynb<br>
+    - Fourth_load.ipynb<br>
 
 
 ### Markdown
